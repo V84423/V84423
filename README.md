@@ -4,7 +4,7 @@ Full Stack Web and Blockchain Developer
 
 <p align="center">
   <a href="https://t.me/wc1371536">
-    <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-telegram-red?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://discord.gg/DwwAbSCD">
     <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
