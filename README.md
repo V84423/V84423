@@ -2,6 +2,40 @@
 
 Full Stack Web and Blockchain Developer 
 
+<p align="center">
+  <a href="https://t.me/wc1371536">
+    <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.gg/DwwAbSCD">
+    <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:wc1371536@gmail.com">
+    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+  
+## My Skills
+
+<table>
+  <tr>
+    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+    </tr>
+</table>
+
+
+
+
 Hello, Hope you are doing well. I am a full-stack developer and have been working in the web development field for years.
 I have started to work Web development in a significant development team. The unique value I talk to you about is going beyond just coding and tech-speak and effectively working with you to understand your goals and improve them into a website and web application that is beautiful, realistic, effective, and easy to manage. I aspire to be a reliable partner for you who can help you grow your business through your website and web application.
 
