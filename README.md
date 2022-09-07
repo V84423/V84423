@@ -46,7 +46,7 @@ Through working together, you will find I am responsive, communicative, transpar
 
 I provide development services using:  
 
-- Cryptocurrency tech  
+### Cryptocurrency tech   
 
 * Smart Contracts (Solidity, Remix, Truffle framework)  
 * Wallet connection with Web3js  
@@ -61,22 +61,22 @@ I provide development services using:
 * Wax, EOS
 * Cardano Node creation.
 
-- Web tech
+## Web tech   
 
 *  Node, React, Vue, Web3 js
 *  Laravel, Shopify, Python Django, Webscraper
 *  MongoDB, PostgreSQL, SQL Server
 * AWS, GCP, Firebase, GraphQL API
 
--Mobile App Development
+## Mobile App Development
  *  Android, Java, Kotlin, React Native, Mobile App Design, etc. 
 
-It would be best if you worked with me because:
-Flexible communication skills are essential to any job requirement.
-I am proud of my work.
-Very Punctual.
-Your Satisfaction as a client will be my number one priority.
-Thank you for your time!
+It would be best if you worked with me because:  
+Flexible communication skills are essential to any job requirement.  
+I am proud of my work.  
+Very Punctual.  
+Your Satisfaction as a client will be my number one priority.  
+Thank you for your time!  
 
 <table align="center">
     <tbody>
