@@ -78,6 +78,9 @@ Very Punctual.
 Your Satisfaction as a client will be my number one priority.  
 Thank you for your time!  
 
+# Development Skill Set
+
+
 <table align="center">
     <tbody>
         <tr>
@@ -307,4 +310,3 @@ Thank you for your time!
     </tbody>
 </table>
 
-# Development Skill Set
