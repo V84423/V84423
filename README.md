@@ -5,9 +5,9 @@
 
 
 <p align="center">
-  <a href="https://t.me/wc1371536">
+<!--   <a href="https://t.me/wc1371536">
     <img src="https://img.shields.io/badge/-telegram-green?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="https://discord.gg/DwwAbSCD">
     <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
