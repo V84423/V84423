@@ -8,12 +8,12 @@
 <!--   <a href="https://t.me/wc1371536">
     <img src="https://img.shields.io/badge/-telegram-green?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp; -->
-  <a href="https://discord.gg/DwwAbSCD">
+<!--   <a href="https://discord.gg/DwwAbSCD">
     <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:wc1371536@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
 </p>
   
 ## My Skills
