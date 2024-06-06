@@ -1,20 +1,13 @@
-## Full Stack Web and Blockchain Developer 
+## Blockchain Lead Dev
 
-### Hi there 👋
+<p  align="center"> Believes that Software Engineering is pure philosphy.</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jankozik&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+- currently learning **Software Engineering**
 
-<p align="center">
-<!--   <a href="https://t.me/wc1371536">
-    <img src="https://img.shields.io/badge/-telegram-green?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp; -->
-<!--   <a href="https://discord.gg/DwwAbSCD">
-    <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:wc1371536@gmail.com">
-    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp; -->
-</p>
+- 💬 Ask me about follows
   
 ## My Skills
 
