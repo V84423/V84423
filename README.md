@@ -7,7 +7,7 @@
 
 - currently learning **Software Engineering**
 
-- 💬 Ask me about follows
+- 💬 Ask me about the following
   
 ## My Skills
 
